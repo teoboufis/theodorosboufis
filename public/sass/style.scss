@@ -1,4 +1,4 @@
-$font-primary: 'Quicksand', Arial, sans-serif;
+$font-primary: 'Montserrat', Arial, sans-serif;
 $font-secondary: 'Playfair Display', Georgia, serif;
 
 // Overrides
@@ -74,7 +74,7 @@ $form-group-margin-bottom:       30px !default;
 }
 
 @font-face {
-	font-family: 'icomoon';
+	font-family: $font-primary;
 	src:url('../fonts/icomoon/icomoon.eot?srf3rx');
 	src:url('../fonts/icomoon/icomoon.eot?srf3rx#iefix') format('embedded-opentype'),
 		url('../fonts/icomoon/icomoon.ttf?srf3rx') format('truetype'),
