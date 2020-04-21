@@ -1,6 +1,7 @@
 {
   "short_name": "Portfolio app",
   "name": "Portfolio app made with react",
+  "homepage": "https://teoboufis.github.io/me",
   "icons": [
     {
       "src": "favicon.ico",

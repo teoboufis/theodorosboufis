@@ -14,11 +14,13 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{ backgroundImage: 'url(images/img-1.jpg)' }}>
+								<div className="project" style={{ backgroundImage: 'url(images/texpe.jpg)' }}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 01</a></h3>
+											<h3><a href="https://github.com/teoboufis/TEXPE-Website">TEXPE</a></h3>
 											<span>Website</span>
+											<br />
+											<span>Tracking expenses website built with 3-tier MVC framework, SQL, JAVA, JSP. Major code components can be found <a href="https://github.com/teoboufis/TEXPE-Website">here</a>.</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -29,11 +31,13 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{ backgroundImage: 'url(images/img-2.jpg)' }}>
+								<div className="project" style={{ backgroundImage: 'url(images/barbers.jpg)' }}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
+											<h3><a href="https://www.figma.com/file/aq79ibbivSNq7srxZfIKeNuz/barber-s?node-id=0%3A1">Barber's</a></h3>
+											<span>Mobile App Design</span>
+											<br />
+											<span>Barbershop booking mobile app design with figma. A basic UI of the app can be found <a href="https://www.figma.com/file/aq79ibbivSNq7srxZfIKeNuz/barber-s?node-id=0%3A1">here</a>.</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -44,11 +48,13 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-								<div className="project" style={{ backgroundImage: 'url(images/img-3.jpg)' }}>
+								<div className="project" style={{ backgroundImage: 'url(images/diabetisys.jpg)' }}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
-											<span>Illustration</span>
+											<h3><a href="work.html">Diabetisys</a></h3>
+											<span>Mobile App Design</span>
+											<br />
+											<span>Mobile app design of Diabetisys. Calculation of insulin equivalents & rendering of restaurant catalogs. A basic UI of the app can be found <a href="https://www.figma.com/file/eqLt9GIf49bbWuG7DylCqxue/Diabetisys?node-id=0%3A1">here</a>.</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -62,8 +68,10 @@ export default class Projects extends Component {
 								<div className="project" style={{ backgroundImage: 'url(images/img-4.jpg)' }}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
-											<span>Application</span>
+											<h3><a href="work.html">Spell Check App</a></h3>
+											<span>Application-JAVA</span>
+											<br />
+											<span>Applications'code & components can be found <a href="https://github.com/teoboufis/SpellCheck">here</a>.</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -77,8 +85,10 @@ export default class Projects extends Component {
 								<div className="project" style={{ backgroundImage: 'url(images/img-5.jpg)' }}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
-											<span>Graphic, Logo</span>
+											<h3><a href="work.html">Algorithms</a></h3>
+											<span>Application - Python</span>
+											<br />
+											<span>Applications'code & components can be found <a href="https://github.com/teoboufis/SpellCheck">here</a>.</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -92,8 +102,10 @@ export default class Projects extends Component {
 								<div className="project" style={{ backgroundImage: 'url(images/img-6.jpg)' }}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
-											<span>Web Design</span>
+											<h3><a href="work.html">Algorithms</a></h3>
+											<span>Application-Python</span>
+											<br />
+											<span>Applications'code & components can be found <a href="https://github.com/teoboufis/SpellCheck">here</a>.</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
