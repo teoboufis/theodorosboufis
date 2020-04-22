@@ -1,10 +1,6 @@
 {
   "name": "portfolio-react",
-<<<<<<< HEAD
   "homepage": "https://teoboufis.github.io/",
-=======
-  "homepage": "https://theodorosboufis.com",
->>>>>>> 3868172497c3d379d69a27e73229b83c1a2fda55
   "version": "0.1.0",
   "private": true,
   "dependencies": {
